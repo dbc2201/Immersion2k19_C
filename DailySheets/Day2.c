@@ -139,10 +139,11 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 12
+ *	All keywords in C programming are ________
+ * 	Answer: A
  * */
+
 /*	Question
  *
  * 	Answer:
