@@ -49,10 +49,17 @@
  * 	Answer: B
  * */
 
-/*	Question
- *
+/*	Question 5
+ *	What will be the output of the following code?
  * 	Answer:
  * */
+
+/*int main() {
+	int goto = 5;
+	printf("%d", goto);
+	return 0;
+}*/
+
 /*	Question
  *
  * 	Answer:
