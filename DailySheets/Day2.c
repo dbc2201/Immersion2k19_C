@@ -201,19 +201,30 @@ int main() {
 	}
 }*/
 
-/*	Question
+/*	Question 17
+ *	What would be the output of the following C code?
+ * 	Answer: C
+ * */
+
+/*#include <stdio.h>
+int main() {
+	int _ = 5;
+	int __ = 10;
+	int ___;
+	___ = _ + __;
+	printf("%i", ___);
+	return 0;
+}*/
+
+/*	Question 18
  *
  * 	Answer:
  * */
-/*	Question
+/*	Question 19
  *
  * 	Answer:
  * */
-/*	Question
- *
- * 	Answer:
- * */
-/*	Question
+/*	Question 20
  *
  * 	Answer:
  * */
