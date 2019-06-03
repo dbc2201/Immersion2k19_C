@@ -51,7 +51,7 @@
 
 /*	Question 5
  *	What will be the output of the following code?
- * 	Answer:
+ * 	Answer: C
  * */
 
 /*int main() {
@@ -60,10 +60,18 @@
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 6
+ *	What will be the output of the following code segment?
+ * 	Answer: C
  * */
+
+/*int main() {
+	int x = 5;
+	int y = x++;
+	printf("%d %d", x, y);
+	return 0;
+}*/
+
 /*	Question
  *
  * 	Answer:
