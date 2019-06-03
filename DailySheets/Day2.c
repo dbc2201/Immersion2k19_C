@@ -94,10 +94,21 @@
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 8
+ *	Which of the following declaration statements is correct?
+ * 	Answer: A
  * */
+
+/*
+int main() {
+	int length;
+	char int;
+	int long;
+	float double;
+	return 0;
+}
+*/
+
 /*	Question
  *
  * 	Answer:
