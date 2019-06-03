@@ -1,4 +1,86 @@
 //
-// Created by divyanshbhardwaj on 6/3/19.
+// Created by divyanshbhardwaj
 //
 
+#include <stdio.h>
+
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
+/*	Question
+ *
+ * 	Answer:
+ * */
