@@ -169,10 +169,20 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 15
+ *	What suffix should you place with a constant for
+ *	the compiler to treat 3.14 as long double?
+ * 	Answer: B
  * */
+
+/*int main() {
+	long double a1 = 3.14ld;
+	long double a2 = 3.14l;
+	long double a3 = 3.14dl;
+	long double a4 = 3.14lf;
+	return 0;
+}*/
+
 /*	Question
  *
  * 	Answer:
