@@ -36,13 +36,13 @@
  * 	Answer:
  * */
 
-int main() {
+/*int main() {
 	int a*;
 	int b|;
 	int c-;
 	int d_;
 	return 0;
-}
+}*/
 
 /*	Question
  *
