@@ -120,10 +120,11 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 10
+ *	Which of the following is not a derived data type in C programming?
+ * 	Answer: A
  * */
+
 /*	Question
  *
  * 	Answer:
