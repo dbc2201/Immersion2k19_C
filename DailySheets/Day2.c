@@ -230,9 +230,18 @@ int main() {
 }*/
 
 /*	Question 19
- *
- * 	Answer:
+ *	What would be the output of the following C code?
+ * 	Answer: B
  * */
+
+/*#include <stdio.h>
+int main() {
+	int i = 1;
+	i = 2 + 2 * i++;
+	printf("%d", i);
+	return 0;
+}*/
+
 /*	Question 20
  *
  * 	Answer:
