@@ -144,10 +144,19 @@ int main() {
  * 	Answer: A
  * */
 
-/*	Question
- *
- * 	Answer:
+/*	Question 13
+ *	What would be the output of the following C code?
+ * 	Answer: B
  * */
+
+/*#include <stdio.h>
+int main() {
+	int i = -3;
+	int k = i % 2;
+	printf("%d\n", k);
+	return 0;
+}*/
+
 /*	Question
  *
  * 	Answer:
