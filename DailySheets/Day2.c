@@ -72,10 +72,28 @@
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 7
+ *	Which of the following statements will not increase the value of variable c by 1?
+ * 	Answer: C
  * */
+
+/*int main() {
+	int c = 0;
+	printf("value of C before c++: %d\n", c);
+	c++;
+	printf("value of C after c++: %d\n", c);
+	printf("value of C before c = c + 1: %d\n", c);
+	c = c + 1;
+	printf("value of C after c = c + 1: %d\n", c);
+	printf("value of C before c + 1 >= c: %d\n", c);
+	c + 1 >= c;
+	printf("value of C after c + 1 >= c: %d\n", c);
+	printf("value of C before c += 1: %d\n", c);
+	c += 1;
+	printf("value of C after c = c + 1: %d\n", c);
+	return 0;
+}*/
+
 /*	Question
  *
  * 	Answer:
