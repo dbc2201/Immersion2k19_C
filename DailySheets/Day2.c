@@ -31,10 +31,19 @@
 	return 0;
 }*/
 
-/*	Question
- *
+/*	Question 3
+ *	Which of the following special symbols are allowed in a variable name in C?
  * 	Answer:
  * */
+
+int main() {
+	int a*;
+	int b|;
+	int c-;
+	int d_;
+	return 0;
+}
+
 /*	Question
  *
  * 	Answer:
