@@ -6,7 +6,7 @@
 
 /*	Question 1
  *	Which of the following is not a valid variable name declaration?
- * 	Answer: 4
+ * 	Answer: D
  * */
 
 /*int main() {
@@ -19,7 +19,7 @@
 
 /*	Question 2
  *	Which of the following is not a valid variable name in C programming?
- * 	Answer: 4
+ * 	Answer: D
  * */
 
 /*int main() {
@@ -33,7 +33,7 @@
 
 /*	Question 3
  *	Which of the following special symbols are allowed in a variable name in C?
- * 	Answer:
+ * 	Answer: D
  * */
 
 /*int main() {
@@ -44,10 +44,11 @@
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 4
+ *	A real number in C programming is treated as which of the following?
+ * 	Answer: B
  * */
+
 /*	Question
  *
  * 	Answer:
