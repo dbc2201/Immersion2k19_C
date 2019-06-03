@@ -243,6 +243,17 @@ int main() {
 }*/
 
 /*	Question 20
- *
- * 	Answer:
+ *	What would be the output of the following C code?
+ * 	Answer: C
  * */
+
+/*#include <stdio.>
+int main() {
+	int a = 0, b = 10;
+	If ( a = 0 ) {
+		printf("True");
+	} else {
+		printf("False");
+	}
+	return 0;
+}*/
