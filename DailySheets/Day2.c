@@ -109,10 +109,17 @@ int main() {
 }
 */
 
-/*	Question
- *
- * 	Answer:
+/*	Question 9
+ *	What will be the output of the following C code?
+ * 	Answer: A
  * */
+
+/*int main() {
+	long int la = 5l;
+	printf("%ld", la);
+	return 0;
+}*/
+
 /*	Question
  *
  * 	Answer:
