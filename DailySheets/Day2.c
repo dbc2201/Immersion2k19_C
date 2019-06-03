@@ -157,10 +157,18 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 14
+ *	Identify error(s) in the following C code?
+ * 	Answer: A
  * */
+
+/*#include <stdio.h>
+int main() {
+	void v = 0;
+	printf("%d", v);
+	return 0;
+}*/
+
 /*	Question
  *
  * 	Answer:
