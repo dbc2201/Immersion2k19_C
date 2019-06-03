@@ -125,10 +125,20 @@ int main() {
  * 	Answer: A
  * */
 
-/*	Question
- *
- * 	Answer:
+/*	Question 11
+ *	Variables inside parenthesis of function declarations have ________ level access.
+ * 	Answer: A
  * */
+
+/*int fun(int number) {
+	return number * 2;
+}
+
+int main() {
+	printf("%d", number);
+	return 0;
+}*/
+
 /*	Question
  *
  * 	Answer:
