@@ -217,9 +217,18 @@ int main() {
 }*/
 
 /*	Question 18
- *
- * 	Answer:
+ *	What will be the output of the following C code?
+ * 	Answer: B
  * */
+
+/*#include <stdio.h>
+int xyz = 10;
+int main() {
+	int xyz = 20;
+	printf("%d", xyz);
+	return 0;
+}*/
+
 /*	Question 19
  *
  * 	Answer:
