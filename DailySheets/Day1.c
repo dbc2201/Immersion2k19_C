@@ -23,8 +23,7 @@
  * 	Answer: 2
  * */
 
-/*
-int main() {
+/*int main() {
 	signed short number1= 65000;
 	unsigned short number2 = 65000;
 	long number3 = 65000;
@@ -41,10 +40,10 @@ int main() {
  * 	Answer: 3
  * */
 
-/*
-int main() {
+/*int main() {
 	int a = 4;
-	printf("The size of an integer variable on your computer is: %d bytes \n", sizeof(a));
+	printf("The size of an integer variable "
+		"on your computer is: %d bytes \n", sizeof(a));
 	return 0;
 }*/
 
@@ -70,6 +69,8 @@ int main() {
  *	Character constants should be enclosed within ________.
  *	Answer: 1
  * */
+
+/*	char ch = 'a';*/
 
 /*	Question 7
  *	String constants should be enclosed within ________.
@@ -121,7 +122,8 @@ int main() {
  * */
 
 /*	Question 13
- *	The words if, else, auto, float etc have predefined meaning and users cannot use them as variables. The words are called ________.
+ *	The words if, else, auto, float etc have predefined
+ *	meaning and users cannot use them as variables. The words are called ________.
  *	Answer: 4
  * */
 
@@ -180,6 +182,6 @@ int main() {
 
 /*	Question 20
  *	Which of the following is a valid string constant?
- *	Answer: 2
+ *	Answer: 1
  * */
 
