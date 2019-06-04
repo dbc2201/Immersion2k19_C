@@ -150,7 +150,7 @@ int main() {
 
 /*	Question 16
  *	The minimum value of a signed integer is
- *	Answer: 4
+ *	Answer: 3
  * */
 
 /*#include <limits.h>

@@ -49,6 +49,8 @@
  * 	Answer: B
  * */
 
+/*	3.0 */
+
 /*	Question 5
  *	What will be the output of the following code?
  * 	Answer: C
@@ -99,15 +101,13 @@
  * 	Answer: A
  * */
 
-/*
-int main() {
+/*int main() {
 	int length;
 	char int;
 	int long;
 	float double;
 	return 0;
-}
-*/
+}*/
 
 /*	Question 9
  *	What will be the output of the following C code?
