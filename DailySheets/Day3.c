@@ -212,10 +212,19 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 16
+ *	What would be the output of the following C code?
+ * 	Answer: C
  * */
+
+/*#include <stdio.h>
+int main() {
+	int __SMALL__ = 11;
+	int y;
+	y = __SMALL__ < 5;
+	printf("%d", y);
+	return 0;
+}*/
 
 /*	Question
  *
