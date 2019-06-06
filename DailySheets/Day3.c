@@ -76,10 +76,18 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 6
+ *	Consider the following declaration statements,
+ * 	Answer: C
  * */
+
+/*int main() {
+	short const register i = 10;		// 1
+	static volatile const int i1 = 10;	// 2
+	unsigned auto long register i2 = 10; // 3
+	signed extern float i3 = 10.0;		// 4
+	return 0;
+}*/
 
 /*	Question
  *
