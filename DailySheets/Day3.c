@@ -203,14 +203,14 @@ int main() {
  * 	Answer: C
  * */
 
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
 	register xyz_123 = 91;
 	auto pqr_123 = 991;
 	const _lal_ = pqr_123 + ~xyz_123;
 	printf("%d", _lal_);
 	return 0;
-}
+}*/
 
 /*	Question
  *
