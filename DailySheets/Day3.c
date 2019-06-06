@@ -89,10 +89,20 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 7
+ *	What would be the output of the following C code?
+ * 	Answer: B
  * */
+
+/*#include <stdio.h>
+int x;
+void main() {
+	if (x) {
+		printf("hi") ;
+	} else {
+		printf("how are you");
+	}
+}*/
 
 /*	Question
  *
