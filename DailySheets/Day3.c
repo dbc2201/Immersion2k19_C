@@ -153,10 +153,23 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 12
+ *	What would be the output of the following C code?
+ * 	Answer: A
  * */
+
+/*#include <stdio.h>
+int main() {
+	int a = -5;
+	unsigned int b = -5u;
+	if ( a == b ) {
+
+		printf("Avatar");
+	} else {
+		printf("Alien");
+	}
+	return 0;
+}*/
 
 /*	Question
  *
