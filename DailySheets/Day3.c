@@ -142,10 +142,16 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 11
+ *	What would be the output of the following C code?
+ * 	Answer: A
  * */
+
+/*#include <stdio.h>
+int main() {
+	printf("C Programming %s", "Class by \n %s Divyansh Bhardwaj", "Nice");
+	return 0;
+}*/
 
 /*	Question
  *
