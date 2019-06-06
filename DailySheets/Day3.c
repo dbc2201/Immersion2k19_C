@@ -152,12 +152,12 @@ int main() {
  * 	Answer: A
  * */
 
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
 	printf("C Programming %s",
  "Class by \n %s Divyansh Bhardwaj", "Nice");
 	return 0;
-}
+}*/
 
 /*	Question 12
  *	What would be the output of the following C code?
