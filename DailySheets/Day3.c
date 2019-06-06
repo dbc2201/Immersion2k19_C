@@ -114,15 +114,33 @@ void main() {
 	printf("%d", i);
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 9
+ *	What would be the output of the following C code?
+ * 	Answer: C
  * */
 
-/*	Question
- *
- * 	Answer:
+/*#include <stdio.h>
+int main() {
+	int class = 150;
+	int public = 25;
+	int private = 30;
+	class = class >> private - public;
+	printf("%d", class);
+	return 0;
+}*/
+
+/*	Question 10
+ *	What would be the output of the following C code?
+ * 	Answer: B
  * */
+
+/*#include <stdio.h>
+int main() {
+	int abcdefghijklmnopqrsstuvwxyz123456789 = 10;
+	int abcdefghijklmnopqrstuvwxyz123456 = 40;
+	printf("%d", abcdefghijklmnopqrstuvwxyz123456);
+	return 0;
+}*/
 
 /*	Question
  *
