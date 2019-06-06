@@ -48,10 +48,18 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 4
+ *	What would be the output of the following C code?
+ * 	Answer: B
  * */
+
+/*#include <stdio.h>
+int main() {
+	signed char chr;
+	chr = 128;
+	printf("%d \n", chr);
+	return 0;
+}*/
 
 /*	Question
  *
