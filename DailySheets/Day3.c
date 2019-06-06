@@ -184,10 +184,19 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 14
+ *	What would be the output of the following C code?
+ * 	Answer: D
  * */
+
+/*#include <stdio.h>
+int main() {
+	char a = 250;
+	int expr;
+	expr = a + !a + ~a + ++a;
+	printf("%d", expr);
+	return 0;
+}*/
 
 /*	Question
  *
