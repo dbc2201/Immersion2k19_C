@@ -81,13 +81,18 @@ int main() {
  * 	Answer: C
  * */
 
-/*int main() {
+/*
+#include <float.h>
+int main() {
 	short const register i = 10;		// 1
+	// i = 11;
 	static volatile const int i1 = 10;	// 2
 	unsigned auto long register i2 = 10; // 3
 	signed extern float i3 = 10.0;		// 4
+	printf("%f", DBL_MAX);
 	return 0;
-}*/
+}
+*/
 
 /*	Question 7
  *	What would be the output of the following C code?
@@ -147,11 +152,12 @@ int main() {
  * 	Answer: A
  * */
 
-/*#include <stdio.h>
+#include <stdio.h>
 int main() {
-	printf("C Programming %s", "Class by \n %s Divyansh Bhardwaj", "Nice");
+	printf("C Programming %s",
+ "Class by \n %s Divyansh Bhardwaj", "Nice");
 	return 0;
-}*/
+}
 
 /*	Question 12
  *	What would be the output of the following C code?
