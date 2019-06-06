@@ -267,7 +267,17 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 20
+ *	Consider the following code, which of the following initialization statement
+ *	is correct to store 32767 as an integer?
+ * 	Answer: B
  * */
+
+/*#include <stdio.h>
+int main() {
+	int a = 32767;     //  1
+	int b = 32,767;    //  2
+	int c = 32.767;    //  3
+	int d = 032767;   //  4
+	return 0;
+}*/
