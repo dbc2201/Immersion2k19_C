@@ -81,18 +81,21 @@ int main() {
  * 	Answer: C
  * */
 
-/*
+/*#include <limits.h>
 #include <float.h>
 int main() {
-	short const register i = 10;		// 1
+	*//*short const register i = 10;		// 1
 	// i = 11;
 	static volatile const int i1 = 10;	// 2
 	unsigned auto long register i2 = 10; // 3
-	signed extern float i3 = 10.0;		// 4
-	printf("%f", DBL_MAX);
+	signed extern float i3 = 10.0;		// 4*//*
+	printf("%d \n", INT_MAX);
+	printf("%f\n", FLT_MAX);
+	printf("%f\n", DBL_MAX);
+	//	FLOATING POINT NUMBERS
+	//	DOUBLE PRECISION FLOATING POINT NUMBERS
 	return 0;
-}
-*/
+}*/
 
 /*	Question 7
  *	What would be the output of the following C code?
@@ -102,6 +105,7 @@ int main() {
 /*#include <stdio.h>
 int x;
 void main() {
+	int x = 1;
 	if (x) {
 		printf("hi") ;
 	} else {
@@ -114,7 +118,7 @@ void main() {
  * 	Answer: B
  * */
 
-/*main() {
+/*int main() {
 	long i = 30000;
 	printf("%d", i);
 }*/
