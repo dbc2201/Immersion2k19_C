@@ -198,10 +198,19 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 15
+ *	What would be the output of the following C code?
+ * 	Answer: C
  * */
+
+#include <stdio.h>
+int main() {
+	register xyz_123 = 91;
+	auto pqr_123 = 991;
+	const _lal_ = pqr_123 + ~xyz_123;
+	printf("%d", _lal_);
+	return 0;
+}
 
 /*	Question
  *
