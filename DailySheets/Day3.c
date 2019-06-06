@@ -226,15 +226,32 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
+/*	Question 17
+ *	What would be the output of the following C code?
+ * 	Answer: C
+ * */
+
+/*#include <stdio.h>
+int main() {
+	int __BIG__ = 32;
+	int y;
+	y = __BIG__ && 8;
+	printf("%d", y);
+	return 0;
+}*/
+
+/*	Question 18
+ *	What would be the output of the following C code?
  * 	Answer:
  * */
 
-/*	Question
- *
- * 	Answer:
- * */
+/*#include <stdio.h>
+static num;
+int main() {
+	printf("%d", num);
+	return 0;
+}
+int num = 25;*/
 
 /*	Question
  *
