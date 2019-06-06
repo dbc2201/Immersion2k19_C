@@ -171,10 +171,18 @@ int main() {
 	return 0;
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 13
+ *	What would be the output of the following C code?
+ * 	Answer: None of the above, 16
  * */
+
+/*#include <stdio.h>
+int main() {
+	int a = sizeof(signed) + sizeof(unsigned);
+	int b = sizeof(const) + sizeof(volatile);
+	printf("%d", a++ + b);
+	return 0;
+}*/
 
 /*	Question
  *
