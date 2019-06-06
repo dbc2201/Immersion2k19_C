@@ -104,10 +104,15 @@ void main() {
 	}
 }*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 8
+ *	What would be the output of the following C code?
+ * 	Answer: B
  * */
+
+/*main() {
+	long i = 30000;
+	printf("%d", i);
+}*/
 
 /*	Question
  *
