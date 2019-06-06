@@ -253,10 +253,19 @@ int main() {
 }
 int num = 25;*/
 
-/*	Question
- *
- * 	Answer:
+/*	Question 19
+ *	Consider the following code, which of the following identifiers are incorrect?
+ * 	Answer: D
  * */
+
+/*#include <stdio.h>
+int main() {
+	int sum_1;			//  1
+	int _temperature;	//  2
+	int TABLE;			//  3
+	int 4th;			//  4
+	return 0;
+}*/
 
 /*	Question
  *
