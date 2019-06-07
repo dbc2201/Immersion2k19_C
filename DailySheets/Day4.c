@@ -49,15 +49,13 @@
  *	What would be the output of the following C code?
  * */
 
-/*
-int main() {
+/*int main() {
 	int a = 10, b = 5, c = 5;
 	int d;
 	d = b + c == a;
 	printf("%d", d);
 	return 0;
-}
-*/
+}*/
 
 /*	Answer 6: B*/
 
@@ -151,7 +149,7 @@ int main() {
  *	Which of the following operators has the lowest precedence?
  * */
 
-/*	Answer 15: D*/
+/*	Answer 15: C CORRRECTION*/
 
 /*	Question 16
  *	Which of the following is the correct order of evaluation for the below expression
