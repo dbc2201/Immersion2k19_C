@@ -49,13 +49,15 @@
  *	What would be the output of the following C code?
  * */
 
-/*int main() {
+/*
+int main() {
 	int a = 10, b = 5, c = 5;
 	int d;
 	d = b + c == a;
 	printf("%d", d);
 	return 0;
-}*/
+}
+*/
 
 /*	Answer 6: B*/
 
@@ -65,7 +67,7 @@
 
 /*int main() {
 	int i = 0;
-	int j = i++ + j;
+	int j = i++ + i;
 	printf("%d \n", j);
 	return 0;
 }*/
@@ -210,8 +212,7 @@
  *	What would be the output of the following C code?
  * */
 
-/*
-int main() {
+/*int main() {
 	int m = 5, n = 10, q = 20;
 	if (q / n * m) {
 		printf("William Gates");
@@ -221,4 +222,4 @@ int main() {
 	return 0;
 }*/
 
-/*ANswer 20: C*/
+/*Answer 20: E*/
