@@ -22,3 +22,14 @@ background
 downstream  
 six-year-old  
 The word isograms, however, is not an isogram, because the s repeats.
+
+---
+
+## How to acquire a JetBrains License
+
+1. Create an account on [GitHub](https://github.com/join) (Use your official GLA email address)  
+   [Here](https://www.wikihow.com/Create-an-Account-on-GitHub) is a help link.  
+2. Register for an account at [JetBrains](https://account.jetbrains.com/login) using your GLA email address.    
+3. Go to [JetBrains' Student License Form](https://www.jetbrains.com/shop/eform/students) and fill it using the same GLA email.  
+4. Now download the toolbox app from JetBrains from [here](https://www.jetbrains.com/toolbox/)  
+5. Sign in to the Toolbox and download your software!  
