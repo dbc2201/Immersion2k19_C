@@ -25,20 +25,20 @@ The word isograms, however, is not an isogram, because the s repeats.
 
 Your code should pass the following test cases
 
-""  
-NULL  
-"isogram"  
-"eleven"  
-"zzyzx"  
-"subdermatoglyphic"  
-"Alphabet"  
-"alphAbet"  
-"thumbscrew-japingly"  
-"thumbscrew-jappingly"  
-"six-year-old"  
-"Emily Jung Schwartzkopf"  
-"accentor"  
-"angola"  
+`""`  
+`NULL`  
+`"isogram"`  
+`"eleven"`  
+`"zzyzx"`  
+`"subdermatoglyphic"`  
+`"Alphabet"`  
+`"alphAbet"`  
+`"thumbscrew-japingly"`  
+`"thumbscrew-jappingly"`  
+`"six-year-old"`  
+`"Emily Jung Schwartzkopf"`  
+`"accentor"`  
+`"angola"`  
 
 ### You may choose to use pre-defined C libraries instead of writing the whole functionality over.
 
