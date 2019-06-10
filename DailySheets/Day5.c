@@ -42,8 +42,8 @@ void main() {
 
 /*	Answer 3: A*/
 
-/*	Question 1
- *
+/*	Question 4
+ *	What would be the output of the following C code?
  * */
 
 /*#include <stdio.h>
@@ -54,10 +54,10 @@ void main() {
 	printf("%d", z);
 }*/
 
-/*	Answer 1: */
+/*	Answer 4: OUTPUT - 7*/
 
-/*	Question 1
- *
+/*	Question 5
+ *	What would be the output of the following C code?
  * */
 
 /*#include <stdio.h>
@@ -67,10 +67,10 @@ int main() {
 	printf("%d\n", y);
 }*/
 
-/*	Answer 1: */
+/*	Answer 5: C*/
 
-/*	Question 1
- *
+/*	Question 6
+ *	What would be the output of the following C code?
  * */
 
 /*#include <stdio.h>
@@ -80,7 +80,7 @@ int main() {
 	printf("%d\n", p);
 }*/
 
-/*	Answer 1: */
+/*	Answer 6: A*/
 
 /*	Question 1
  *
