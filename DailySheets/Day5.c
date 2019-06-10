@@ -60,6 +60,13 @@ void main() {
  *
  * */
 
+/*#include <stdio.h>
+int main() {
+	int x = 1;
+	int y =  x == 1 ? getchar(): 2;
+	printf("%d\n", y);
+}*/
+
 /*	Answer 1: */
 
 /*	Question 1
