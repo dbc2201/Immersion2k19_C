@@ -14,8 +14,8 @@ int main() {
 
 /*	Answer 1: A*/
 
-/*	Question 1
- *
+/*	Question 2
+ *	What would be the output of the following C code?
  * */
 
 /*#include <stdio.h>
@@ -26,7 +26,7 @@ int main() {
 	printf("%d\n", y);
 }*/
 
-/*	Answer 1: */
+/*	Answer 2: B*/
 
 /*	Question 1
  *
