@@ -82,8 +82,8 @@ int main() {
 
 /*	Answer 6: A*/
 
-/*	Question 1
- *
+/*	Question 7
+ *	What would be the output of the following C code?
  * */
 
 /*#include <stdio.h>
@@ -97,82 +97,106 @@ int main() {
 		printf("short int\n");
 }*/
 
-/*	Answer 1: */
+/*	Answer 7: A*/
 
-/*	Question 1
- *
+/*	Question 8
+ *	For initialization a = 2, c = 1, the value of a and c after this code will be
  * */
 
-/*	Answer 1: */
+/*int main(void) {
+	int a = 2;
+	int c = 1;
+	c = (c) ? a = 0 : 2;
+	printf("%d %d\n", a, c);
+	return 0;
+}*/
 
-/*	Question 1
- *
+/*	Answer 8: A*/
+
+/*	Question 9
+ *	What will be the data type of the expression
  * */
 
-/*	Answer 1: */
+/*int main(void) {
+	int a = 50;
+	double var1 = 3.14;
+	float var2 = 7.52f;
+	a = (a < 50) ? var1 : var2;
+	printf("%d", a);
+	return 0;
+}*/
 
-/*	Question 1
- *
+/*	Answer 9: C*/
+
+/*	Question 10
+ *	Which expression has to be present in the following?
  * */
 
-/*	Answer 1: */
+/*	Answer 10: D */
 
-/*	Question 1
- *
+/*	Question 11
+ *	What would be the output of the following C code?
  * */
 
-/*	Answer 1: */
+/*int main(void) {
+	int a = 0, b = 1, c = 3;
+	*((a) ? &b : &a ) = a ? b : c;
+	printf("%d, %d, %d\n", a, b, c);
+	return 0;
+}*/
 
-/*	Question 1
- *
+/*	Answer 11: C*/
+
+/*	Question 12
+ *	What would be the output of the following C code?
  * */
 
-/*	Answer 1: */
+/*int main(void) {
+	int k, num = 30;
+	k = (num <10) ? 100 : 200;
+	printf("%d\n", num);
+	return 0;
+}*/
 
-/*	Question 1
- *
+/*	Answer 12: OUTPUT 30 */
+
+/*	Question 13
+ *	Value of C after the following expressions
+ *	initializations a = 1, b = 2, c = 1
  * */
 
-/*	Answer 1: */
+/*int main(void) {
+	int a = 1, b = 2, c = 1;
+	c += (-c) ? a : b;
+	printf("%d", c);
+	return 0;
+}*/
 
-/*	Question 1
- *
+/*	Answer 13: B*/
+
+/*	Question 14
+ *	What would be the output of the following C code?
  * */
 
-/*	Answer 1: */
+/*int main(void) {
+	int x, y, z;
+	x = y = z = 1;
+	z = ++x || ++y && ++z;
+	printf("x = %d, y = %d, z = %d", x, y, z);
+	return 0;
+}*/
 
-/*	Question 1
- *
+/*	Answer 14: A*/
+
+/*	Question 15
+ *	What would be the output of the following C code?
  * */
 
-/*	Answer 1: */
+/*int main() {
+	int a = 10, b;
+	a >= 5 ? b = 100 : b = 200;
+	printf("%d\n", b);
+	return 0;
+}*/
 
-/*	Question 1
- *
- * */
-
-/*	Answer 1: */
-
-/*	Question 1
- *
- * */
-
-/*	Answer 1: */
-
-/*	Question 1
- *
- * */
-
-/*	Answer 1: */
-
-/*	Question 1
- *
- * */
-
-/*	Answer 1: */
-
-/*	Question 1
- *
- * */
-
-/*	Answer 1: */
+/*	Answer 15: D*/
