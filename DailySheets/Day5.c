@@ -73,8 +73,7 @@ int main() {
  *	What would be the output of the following C code?
  * */
 
-/*#include <stdio.h>
-int main() {
+/*int main() {
 	int y = 1, x = 0;
 	int p = (y++, x++) ? y : x;
 	printf("%d\n", p);
@@ -91,6 +90,9 @@ int main() {
 	int x = 1;
 	short int i = 2;
 	float f = 3;
+	*//*printf("i --> %d bytes\n", sizeof(i));
+	printf("float --> %d bytes\n", sizeof(float));
+	printf("%d", (x == 2) ? f : i);*//*
 	if (sizeof((x == 2) ? f : i) == sizeof(float))
 		printf("float\n");
 	else if (sizeof((x == 2) ? f : i) == sizeof(short int))
@@ -120,7 +122,11 @@ int main() {
 /*int main(void) {
 	int a = 50;
 	double var1 = 3.14;
+	//	3.140000
+	//	3
 	float var2 = 7.52f;
+	//	7.520000
+	//	7
 	a = (a < 50) ? var1 : var2;
 	printf("%d", a);
 	return 0;
@@ -141,6 +147,8 @@ int main() {
 /*int main(void) {
 	int a = 0, b = 1, c = 3;
 	*((a) ? &b : &a ) = a ? b : c;
+	// *(&a) = 3;
+	// a = 3;
 	printf("%d, %d, %d\n", a, b, c);
 	return 0;
 }*/
@@ -153,7 +161,7 @@ int main() {
 
 /*int main(void) {
 	int k, num = 30;
-	k = (num <10) ? 100 : 200;
+	k = (num < 10) ? 100 : 200;
 	printf("%d\n", num);
 	return 0;
 }*/
