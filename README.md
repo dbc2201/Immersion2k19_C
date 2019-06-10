@@ -11,34 +11,7 @@ ___
 
 ## Question of the Week
 
-Determine if a word or phrase is an isogram.
-
-An isogram (also known as a "nonpattern word") is a word or phrase without a repeating letter, however spaces and hyphens are allowed to appear multiple times.
-
-Examples of isograms:
-
-lumberjacks  
-background  
-downstream  
-six-year-old  
-The word isograms, however, is not an isogram, because the s repeats.
-
-Your code should pass the following test cases
-
-`""`  
-`NULL`  
-`"isogram"`  
-`"eleven"`  
-`"zzyzx"`  
-`"subdermatoglyphic"`  
-`"Alphabet"`  
-`"alphAbet"`  
-`"thumbscrew-japingly"`  
-`"thumbscrew-jappingly"`  
-`"six-year-old"`  
-`"Emily Jung Schwartzkopf"`  
-`"accentor"`  
-`"angola"`  
+YET TO BE ANNOUNCED!
 
 ### You may choose to use pre-defined C libraries instead of writing the whole functionality over.
 
