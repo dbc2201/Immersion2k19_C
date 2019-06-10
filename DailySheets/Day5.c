@@ -28,8 +28,8 @@ int main() {
 
 /*	Answer 2: B*/
 
-/*	Question 1
- *
+/*	Question 3
+ *	What would be the output of the following C code?
  * */
 
 /*#include <stdio.h>
@@ -40,7 +40,7 @@ void main() {
 	printf("%d", z);
 }*/
 
-/*	Answer 1: */
+/*	Answer 3: A*/
 
 /*	Question 1
  *
