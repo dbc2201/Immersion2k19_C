@@ -12,7 +12,7 @@ int main() {
 	return 0;
 }*/
 
-/*	Answer 1: */
+/*	Answer 1: A*/
 
 /*	Question 1
  *
@@ -73,11 +73,29 @@ int main() {
  *
  * */
 
+/*#include <stdio.h>
+int main() {
+	int y = 1, x = 0;
+	int p = (y++, x++) ? y : x;
+	printf("%d\n", p);
+}*/
+
 /*	Answer 1: */
 
 /*	Question 1
  *
  * */
+
+/*#include <stdio.h>
+int main() {
+	int x = 1;
+	short int i = 2;
+	float f = 3;
+	if (sizeof((x == 2) ? f : i) == sizeof(float))
+		printf("float\n");
+	else if (sizeof((x == 2) ? f : i) == sizeof(short int))
+		printf("short int\n");
+}*/
 
 /*	Answer 1: */
 
