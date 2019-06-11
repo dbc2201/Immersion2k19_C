@@ -11,7 +11,7 @@ ___
 
 ## Question of the Week  
 
-### Challenge Name : ANAGRAM  
+### Challenge Name : ACRONYM  
 
 ### Problem Statement:  
 Techies love their TLA (Three Letter Acronyms)!     
@@ -20,9 +20,9 @@ its acronym (PNG).
 
 ###  Submit your entries in the following manner
 1. Use your official GLA email address to send in a mail at divyansh.bhardwaj@gla.ac.in  
-2. The subject line should be 'Week 2 Code - Anagram'.  
+2. The subject line should be 'Week 2 Code - Acronym'.  
 3. In the body of the e-mail, please mention your full name, university roll number and batch.  
-4. The code should be kept in a separate file called 'anagram.c' and should striclty follow C99 GCC standards.  
+4. The code should be kept in a separate file called 'acronym.c' and should striclty follow C99 GCC standards.  
 5. Please use indentation and code comments to make the code more readable.  
 
 ### Test Cases for the problem
