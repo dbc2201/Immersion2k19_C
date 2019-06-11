@@ -175,7 +175,7 @@ int main(void) {
 	return 0;
 }*/
 
-/*	Answer 10: C*/
+/*	Answer 10: D*/
 
 /*	Question 11
  *	What would be the output of the following C code?
