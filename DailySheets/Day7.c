@@ -259,3 +259,19 @@ int main() {
 }*/
 
 //	Answer 17 : C (False)
+
+/*	Question 18
+ * 	What is the output of this C code?
+ * */
+
+/*
+int main() {
+	int i = 0, j = 0;
+	while (i < 5, j < 10) {
+		i++;
+		j++;
+	}
+	printf("%d, %d\n", i, j);
+}*/
+
+//	Answer 18 : C (10, 10)
