@@ -30,3 +30,17 @@ int main() {
 
 //	Answer : B (In do-while loop After loop)
 
+/*	Question 3
+ * 	What is the output of this C code?
+ * */
+
+/*
+int main() {
+	int i = 0;
+	do {
+		i++;
+		printf("In while loop\n");
+	} while (i < 3);
+}*/
+
+//	Answer : A (In do-while loop 3 times)
