@@ -245,3 +245,17 @@ int main() {
 }*/
 
 //	Answer 16 : A (Error)
+
+/*	Question 17
+ * 	What is the output of this C code?
+ * */
+
+/*
+int main() {
+	int i = 0;
+	while (i = 0)
+		printf("True\n");
+	printf("False\n");
+}*/
+
+//	Answer 17 : C (False)
