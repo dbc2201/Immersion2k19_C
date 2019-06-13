@@ -173,3 +173,21 @@ void main() {
 }*/
 
 //	Answer 11 :
+
+/*	Question 12
+ * 	What is the output of this C code?
+ * */
+
+/*
+extern int x;
+int main() {
+	do {
+		do {
+			printf("%o", x);
+		} while (!-2);
+	} while (0);
+	return 0;
+}
+int x = 8;*/
+
+//	Answer 12 : C (10 as an octal number)
