@@ -87,4 +87,4 @@ int main(void) {
 	return 0;
 }*/
 
-//	Answer 7 : D (All of the above)
+//	Answer 6 : D (All of the above)
