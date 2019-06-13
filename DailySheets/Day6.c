@@ -162,6 +162,7 @@ int main(void) {
 
 /*int main(void) {
 	unsigned char c = 280;
+
 	switch (c) {
 		printf("Start\t");
 		case 280:
@@ -181,8 +182,7 @@ int main(void) {
  *	What would be the output of the following C code?
  * */
 
-/*
-#define max(a) a
+/*#define max(a) a
 int main() {
 	int x = 1;
 	switch (x) {
