@@ -221,3 +221,19 @@ int main() {
 }*/
 
 //	Answer 13 : B (a a after loop)
+
+/*	Question 14
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int i = 0;
+	for (i = 0; i < 5; i++)
+		if (i < 4) {
+			printf("Hello");
+			break;
+		}
+}*/
+
+//	Answer 14 : C (Hello)
