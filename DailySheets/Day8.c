@@ -105,3 +105,21 @@ int main() {
  * */
 
 //	Answer 7 : B (if-else)
+
+/*	Question 8
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int i = 0, j = 0;
+	for (i = 0; i < 5; i++) {
+		for (j = 0; j < 4; j++) {
+			if (i > 1)
+				break;
+		}
+		printf("Hi \n");
+	}
+}*/
+
+//	Answer 8 : A (Hi is printe 5 times)
