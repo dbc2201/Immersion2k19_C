@@ -147,3 +147,16 @@ void main() {
 }*/
 
 //	Answer 9 : A (Error)
+
+/*	Question 10
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int k = 0;
+	for (k < 3; k++)
+		printf("Hello");
+}*/
+
+//	Answer 10 : A (Error)
