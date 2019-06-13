@@ -22,3 +22,20 @@ int main() {
 }*/
 
 //	Answer 1 : B (0 times)
+
+/*	Question 2
+ * 	Point out the error, if any in the for loop.
+ * */
+
+/*
+int main() {
+	int i = 1;
+	for (;;) {
+		printf("%d\n", i++);
+		if (i > 10)
+			break;
+	}
+	return 0;
+}*/
+
+//	Answer 2 : D (No error)
