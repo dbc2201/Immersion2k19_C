@@ -56,3 +56,18 @@ int main() {
 }*/
 
 //	Answer 3 : A (There should be a condition in the while loop)
+
+/*	Question 4
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int i = 0;
+	if (i == 0) {
+		printf("Hello");
+		continue;
+	}
+}*/
+
+//	Answer 4 : D (Error, continue is not is any loop)
