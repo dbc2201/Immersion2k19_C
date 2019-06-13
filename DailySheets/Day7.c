@@ -71,3 +71,20 @@ void main() {
 }*/
 
 //	Answer : B (H is printed infinite times)
+
+/*	Question 6
+ * 	The following code ‘for(;;)’ represents an infinite loop. It can be terminated by.
+ * */
+
+/*
+#include <stdlib.h>	//	for using abort() & exit()
+int main(void) {
+	for (;;) {
+		//	break;
+		//	abort();
+		//	exit(0);
+	}
+	return 0;
+}*/
+
+//	Answer 7 : D (All of the above)
