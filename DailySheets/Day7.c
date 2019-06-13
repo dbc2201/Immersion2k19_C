@@ -191,3 +191,17 @@ int main() {
 int x = 8;*/
 
 //	Answer 12 : C (10 as an octal number)
+
+/*	Question 13
+ * 	What is the output of this C code?
+ * */
+
+/*
+int main() {
+	int i = 2, j = 2;
+	while (i + 1 ? --i : j++)
+		printf("%d", i);
+	return 0;
+}*/
+
+//	Answer 13 : A (1)
