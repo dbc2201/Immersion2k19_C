@@ -76,8 +76,7 @@ void main() {
  * 	The following code ‘for(;;)’ represents an infinite loop. It can be terminated by.
  * */
 
-/*
-#include <stdlib.h>	//	for using abort() & exit()
+/*#include <stdlib.h>	//	for using abort() & exit()
 int main(void) {
 	for (;;) {
 		//	break;
@@ -99,35 +98,35 @@ int main(void) {
 	int n = 10;
 	printf("\nQuestion --------\n");
 	for (i = 0; i < n; i++) {
-		printf("*");
+		printf("%d ", i);
 	}
 	printf("\nOption A --------\n");
 	for (i = n; i > 0; i--) {
-		printf("*");
+		printf("%d ", i);
 	}
 	printf("\nOption B --------\n");
 	for (i = n; i >= 0; i--) {
-		printf("*");
+		printf("%d ", i);
 	}
 	printf("\nOption C --------\n");
 	for (i = n - 1; i > 0; i--) {
-		printf("*");
+		printf("%d ", i);
 	}
 	printf("\nOption D --------\n");
 	for (i = n - 1; i > -1; i--) {
-		printf("*");
+		printf("%d ", i);
 	}
 	return 0;
-}*/
+}
+*/
 
-//	Answer 7 : A for (i = n; i > 0; i--)
+//	Answer 7 : D for (i = n - 1; i >= -1; i--)
 
 /*	Question 8
  * 	What is the output of the C code/
  * */
 
-/*
-int main() {
+/*int main() {
 	short i;
 	for (i = 1; i >= 0; i++)
 		printf("%d\n", i);
@@ -139,8 +138,7 @@ int main() {
  * 	What is the output of this C code?
  * */
 
-/*
-void main() {
+/*void main() {
 	int k = 0;
 	for (k)
 		printf("Hello");
@@ -165,14 +163,13 @@ void main() {
  * 	What is the output of this C code?
  * */
 
-/*
-void main() {
+/*void main() {
 	double k = 0;
-	for (k = 0.0; k < 3.0; k++)
+	for (k = 0.5; k < 3.0; k++)
 		printf("Hello");
 }*/
 
-//	Answer 11 :
+//	Answer 11 : B
 
 /*	Question 12
  * 	What is the output of this C code?
