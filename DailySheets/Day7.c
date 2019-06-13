@@ -44,3 +44,17 @@ int main() {
 }*/
 
 //	Answer : A (In do-while loop 3 times)
+
+/*	Question 4
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int i = 2;
+	do {
+		printf("Hi");
+	} while (i < 2)
+}*/
+
+//	Answer : A (Error)
