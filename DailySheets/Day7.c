@@ -58,3 +58,16 @@ void main() {
 }*/
 
 //	Answer : A (Error)
+
+/*	Question 5
+ *	What is the output of this C code?
+ * */
+
+/*void main() {
+	int i = 0;
+	while (++i) {
+		printf("H");
+	}
+}*/
+
+//	Answer : B (H is printed infinite times)
