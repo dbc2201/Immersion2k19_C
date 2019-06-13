@@ -86,3 +86,16 @@ void main() {
 }*/
 
 //	Answer 5 : D (Error, break is not in any loop or switch statement)
+
+/*	Question 6
+ * 	What is the output of this C code?
+ * */
+
+/*
+int main() {
+	printf("before continue ");
+	continue;
+	printf("after continue\n");
+}*/
+
+//	Answer 6 : D (Error, continue is not in any loop statement)
