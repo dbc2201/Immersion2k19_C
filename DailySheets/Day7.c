@@ -88,3 +88,36 @@ int main(void) {
 }*/
 
 //	Answer 6 : D (All of the above)
+
+/*	Question 7
+ * 	Which for loop has range of similar indexes of 'i' used in for (i = 0;i < n; i++)?
+ * */
+
+/*
+int main(void) {
+	int i = 0;
+	int n = 10;
+	printf("\nQuestion --------\n");
+	for (i = 0; i < n; i++) {
+		printf("*");
+	}
+	printf("\nOption A --------\n");
+	for (i = n; i > 0; i--) {
+		printf("*");
+	}
+	printf("\nOption B --------\n");
+	for (i = n; i >= 0; i--) {
+		printf("*");
+	}
+	printf("\nOption C --------\n");
+	for (i = n - 1; i > 0; i--) {
+		printf("*");
+	}
+	printf("\nOption D --------\n");
+	for (i = n - 1; i > -1; i--) {
+		printf("*");
+	}
+	return 0;
+}*/
+
+//	Answer 7 : A for (i = n; i > 0; i--)
