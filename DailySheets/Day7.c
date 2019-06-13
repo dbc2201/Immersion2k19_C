@@ -218,3 +218,16 @@ void main() {
 }*/
 
 //	Answer 14 : C (3.000000)
+
+/*	Question 15
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int k;
+	for (k = -3; k < -5; k++)
+		printf("Hello");
+}*/
+
+//	Answer 15 : D (No output)
