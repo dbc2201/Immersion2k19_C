@@ -160,3 +160,16 @@ void main() {
 }*/
 
 //	Answer 10 : A (Error)
+
+/*	Question 11
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	double k = 0;
+	for (k = 0.0; k < 3.0; k++)
+		printf("Hello");
+}*/
+
+//	Answer 11 :
