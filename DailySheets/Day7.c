@@ -121,3 +121,17 @@ int main(void) {
 }*/
 
 //	Answer 7 : A for (i = n; i > 0; i--)
+
+/*	Question 8
+ * 	What is the output of the C code/
+ * */
+
+/*
+int main() {
+	short i;
+	for (i = 1; i >= 0; i++)
+		printf("%d\n", i);
+}*/
+
+//	Answer 8 : C (Numbers will be displayed until the signed limit of short and program will successfully terminate)
+
