@@ -39,3 +39,20 @@ int main() {
 }*/
 
 //	Answer 2 : D (No error)
+
+/*	Question 3
+ *	Point out the error, if any in the while loop.
+ * */
+
+/*
+int main() {
+	int i = 1;
+	while () {
+		printf("%d\n", i++);
+		if (i > 10)
+			break;
+	}
+	return 0;
+}*/
+
+//	Answer 3 : A (There should be a condition in the while loop)
