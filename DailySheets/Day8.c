@@ -71,3 +71,18 @@ void main() {
 }*/
 
 //	Answer 4 : D (Error, continue is not is any loop)
+
+/*	Question 5
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int i = 0;
+	if (i == 0) {
+		printf("Hello");
+		break;
+	}
+}*/
+
+//	Answer 5 : D (Error, break is not in any loop or switch statement)
