@@ -135,3 +135,15 @@ int main() {
 
 //	Answer 8 : C (Numbers will be displayed until the signed limit of short and program will successfully terminate)
 
+/*	Question 9
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int k = 0;
+	for (k)
+		printf("Hello");
+}*/
+
+//	Answer 9 : A (Error)
