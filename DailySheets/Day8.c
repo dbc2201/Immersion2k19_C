@@ -199,3 +199,25 @@ int main() {
 }*/
 
 //	Answer 12 : B (After loop)
+
+/*	Question 13
+ * 	What is the output of this C code?
+ * */
+
+/*
+int main() {
+	int i = 0;
+	char c = 'a';
+	while (i < 2) {
+		i++;
+		switch (c) {
+			case 'a':
+				printf("%c ", c);
+				break;
+				break;
+		}
+	}
+	printf("after loop\n");
+}*/
+
+//	Answer 13 : B (a a after loop)
