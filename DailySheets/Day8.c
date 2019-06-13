@@ -99,3 +99,9 @@ int main() {
 }*/
 
 //	Answer 6 : D (Error, continue is not in any loop statement)
+
+/*	Question 7
+ * 	The keyword ‘break’ cannot be simply used within:
+ * */
+
+//	Answer 7 : B (if-else)
