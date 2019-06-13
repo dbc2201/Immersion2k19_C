@@ -160,3 +160,22 @@ int main() {
 }*/
 
 //	Answer 10 : A (In while loop 2)
+
+/*	Question 11
+ * What is the output of this C code?
+ * */
+
+/*
+int main() {
+	int i = 0, j = 0;
+	for (i; i < 2; i++) {
+		for (j = 0; j < 3; j++) {
+			printf("1\n");
+			break;
+		}
+		printf("2\n");
+	}
+	printf("after loop\n");
+}*/
+
+//	Answer 11 : C (1 \n 2 \n 1 \n 2 \n after loop )
