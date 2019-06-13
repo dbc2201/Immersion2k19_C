@@ -179,3 +179,23 @@ int main() {
 }*/
 
 //	Answer 11 : C (1 \n 2 \n 1 \n 2 \n after loop )
+
+/*	Question 12
+ *	What is the output of this C code?
+ * */
+
+/*
+int main() {
+	int i = 0;
+	while (i < 2) {
+		if (i == 1)
+			break;
+		i++;
+		if (i == 1)
+			continue;
+		printf("In while loop\n");
+	}
+	printf("After loop\n");
+}*/
+
+//	Answer 12 : B (After loop)
