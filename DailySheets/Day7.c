@@ -205,3 +205,16 @@ int main() {
 }*/
 
 //	Answer 13 : A (1)
+
+/*	Question 14
+ * 	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	double k = 0;
+	for (k = 0.0; k < 3.0; k++);
+	printf("%lf", k);
+}*/
+
+//	Answer 14 : C (3.000000)
