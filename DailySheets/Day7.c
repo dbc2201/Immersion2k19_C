@@ -231,3 +231,17 @@ void main() {
 }*/
 
 //	Answer 15 : D (No output)
+
+/*	Question 16
+ * 	What is the output of the C code?
+ * */
+
+/*
+int main() {
+	int i = 0;
+	for (;; ;)
+	printf("In for loop\n");
+	printf("After loop\n");
+}*/
+
+//	Answer 16 : A (Error)
