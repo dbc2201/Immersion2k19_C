@@ -122,4 +122,23 @@ void main() {
 	}
 }*/
 
-//	Answer 8 : A (Hi is printe 5 times)
+//	Answer 8 : A (Hi is printed 5 times)
+
+/*	Question 9
+ *	What is the output of this C code?
+ * */
+
+/*
+void main() {
+	int i = 0;
+	int j = 0;
+	for (i = 0; i < 5; i++) {
+		for (j = 0; j < 4; j++) {
+			if (i > 1)
+				continue;
+			printf("Hi \n");
+		}
+	}
+}*/
+
+//	Answer 9 : B (Hi is printed 8 times)
