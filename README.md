@@ -11,31 +11,27 @@ ___
 
 ## Question of the Week  
 
-### Challenge Name : ACRONYM  
+### Challenge Name : Uber's Hiring Challenge  
 
 ### Problem Statement:  
-Techies love their TLA (Three Letter Acronyms)!     
-Help generate some jargon by writing a program that converts a long name like Portable Network Graphics to 
-its acronym (PNG).
+Given an array of integers,
+return a new array such that each element at index i of the new array 
+is the product of all the numbers in the original array except the one at i.
+
+For example,
+if our input was [1, 2, 3, 4, 5], 
+the expected output would be [120, 60, 40, 30, 24]. 
+If our input was [3, 2, 1], the expected output would be [2, 3, 6].
 
 ###  Submit your entries in the following manner
 1. Use your official GLA email address to send in a mail at divyansh.bhardwaj@gla.ac.in  
-2. The subject line should be 'Week 2 Code - Acronym'.  
+2. The subject line should be 'Week 3 Code - Uber'.  
 3. In the body of the e-mail, please mention your full name, university roll number and batch.  
 4. The code should be kept in a separate file called 'acronym.c' and should strictly follow C99 GCC standards.  
 5. Please use indentation and code comments to make the code more readable.  
 
 ### Test Cases for the problem
-1. Input: NULL, Output: NULL  
-2. Input: "Portable Network Graphic", Output: "PNG"  
-3. Input: "Ruby on Rails", Output: "ROR"  
-4. Input: "First In, First Out", Output: "FIFO"  
-5. Input: "GNU Image Manipulation Program", Output: "GIMP"  
-6. Input: "Complementary metal-oxide semiconductor", Output: "CMOS"    
-7. Input: "PHP: Hypertext Preprocessor", Output: "PHP"    
-8. Input: "", Output: NULL  
-9. Input: "for what it's worth", Output: "FWIW"  
-10. Input: "Rolling On The Floor Laughing So Hard That My Dogs Came Over And Licked Me", Output: "ROTFLSHTMDCOALM"
+NONE
 
 ### You may choose to use pre-defined C libraries instead of writing the whole functionality over.
 

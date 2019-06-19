@@ -92,8 +92,7 @@ int main(void) {
  * 	Which for loop has range of similar indexes of 'i' used in for (i = 0;i < n; i++)?
  * */
 
-/*
-int main(void) {
+/*int main(void) {
 	int i = 0;
 	int n = 10;
 	printf("\nQuestion --------\n");
@@ -117,8 +116,7 @@ int main(void) {
 		printf("%d ", i);
 	}
 	return 0;
-}
-*/
+}*/
 
 //	Answer 7 : D for (i = n - 1; i >= -1; i--)
 
@@ -175,8 +173,7 @@ void main() {
  * 	What is the output of this C code?
  * */
 
-/*
-extern int x;
+/*extern int x;
 int main() {
 	do {
 		do {
@@ -193,8 +190,7 @@ int x = 8;*/
  * 	What is the output of this C code?
  * */
 
-/*
-int main() {
+/*int main() {
 	int i = 2, j = 2;
 	while (i + 1 ? --i : j++)
 		printf("%d", i);
@@ -207,8 +203,7 @@ int main() {
  * 	What is the output of this C code?
  * */
 
-/*
-void main() {
+/*void main() {
 	double k = 0;
 	for (k = 0.0; k < 3.0; k++);
 	printf("%lf", k);
@@ -220,8 +215,7 @@ void main() {
  * 	What is the output of this C code?
  * */
 
-/*
-void main() {
+/*void main() {
 	int k;
 	for (k = -3; k < -5; k++)
 		printf("Hello");
@@ -247,8 +241,7 @@ int main() {
  * 	What is the output of this C code?
  * */
 
-/*
-int main() {
+/*int main() {
 	int i = 0;
 	while (i = 0)
 		printf("True\n");
