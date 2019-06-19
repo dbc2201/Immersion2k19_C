@@ -52,3 +52,5 @@ ___
 
 [How to write a good C main function](https://opensource.com/article/19/5/how-write-good-c-main-function?utm_medium=Email&utm_campaign=weekly&sc_cid=701f20000012sAeAAI)
 [Stuff every programmer should know](https://github.com/mtdvio/every-programmer-should-know)
+[A list of projects anyone can make](https://github.com/karan/Projects)
+[Create a visual profile for your GitHub account](https://sourcerer.io/)
