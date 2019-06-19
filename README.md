@@ -54,4 +54,6 @@ ___
 2. [Stuff every programmer should know](https://github.com/mtdvio/every-programmer-should-know)  
 3. [A list of projects anyone can make](https://github.com/karan/Projects)  
 4. [Create a visual profile for your GitHub account](https://sourcerer.io/)  
-5. [How to use Git and GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p)  
+5. [How to use Git and GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p)
+
+___  
