@@ -55,5 +55,7 @@ ___
 3. [A list of projects anyone can make](https://github.com/jorgegonzalez/beginner-projects#projects)  
 4. [Create a visual profile for your GitHub account](https://sourcerer.io/)  
 5. [How to use Git and GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p)
+6. [C Programming Tutorials in Hindi (Spoken Tutorials, IIT Bombay)](https://spoken-tutorial.org/tutorial-search/?search_foss=C+and+Cpp&search_language=Hindi)
+7. [C Programming Tutorials in English (Spoken Tutorials, IIT Bombay)](https://spoken-tutorial.org/tutorial-search/?search_foss=C+and+Cpp&search_language=English)
 
 ___  
