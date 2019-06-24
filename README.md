@@ -11,21 +11,13 @@ ___
 
 ## Question of the Week  
 
-### Challenge Name : Uber's Hiring Challenge  
+### Challenge Name : TBA  
 
-### Problem Statement:  
-Given an array of integers,
-return a new array such that each element at index i of the new array 
-is the product of all the numbers in the original array except the one at i.
-
-For example,
-if our input was [1, 2, 3, 4, 5], 
-the expected output would be [120, 60, 40, 30, 24]. 
-If our input was [3, 2, 1], the expected output would be [2, 3, 6].
+### Problem Statement: TBA  
 
 ###  Submit your entries in the following manner
 1. Use your official GLA email address to send in a mail at divyansh.bhardwaj@gla.ac.in  
-2. The subject line should be 'Week 3 Code - Uber'.  
+2. The subject line should be as per the challenge name.  
 3. In the body of the e-mail, please mention your full name, university roll number and batch.  
 4. The code should be kept in a separate file called 'acronym.c' and should strictly follow C99 GCC standards.  
 5. Please use indentation and code comments to make the code more readable.  
