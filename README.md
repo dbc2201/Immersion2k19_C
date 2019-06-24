@@ -59,3 +59,5 @@ ___
 7. [C Programming Tutorials in English (Spoken Tutorials, IIT Bombay)](https://spoken-tutorial.org/tutorial-search/?search_foss=C+and+Cpp&search_language=English)
 
 ___  
+
+![Dissection of a simple C program](/images/cprogram.png)
