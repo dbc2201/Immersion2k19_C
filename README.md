@@ -56,4 +56,4 @@ ___
 
 ___
 
-![Video - Setting Up Your Development Environment For C Programming, Divyansh Bhardwaj](https://youtu.be/6xr6z6IGU1k)
+[Video - Setting Up Your Development Environment For C Programming, Divyansh Bhardwaj](https://youtu.be/6xr6z6IGU1k)
