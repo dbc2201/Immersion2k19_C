@@ -49,6 +49,7 @@ ___
 5. [How to use Git and GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p)
 6. [C Programming Tutorials in Hindi (Spoken Tutorials, IIT Bombay)](https://spoken-tutorial.org/tutorial-search/?search_foss=C+and+Cpp&search_language=Hindi)
 7. [C Programming Tutorials in English (Spoken Tutorials, IIT Bombay)](https://spoken-tutorial.org/tutorial-search/?search_foss=C+and+Cpp&search_language=English)
+8. [Crash Course Computer Science, YouTube](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ___  
 
@@ -58,3 +59,5 @@ ___
 
 Video - Setting Up Your Development Environment For C Programming, Divyansh Bhardwaj
 [![Video - Setting Up Your Development Environment For C Programming, Divyansh Bhardwaj](https://img.youtube.com/vi/6xr6z6IGU1k/0.jpg)](https://youtu.be/6xr6z6IGU1k)
+
+
