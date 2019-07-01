@@ -51,6 +51,7 @@ ___
 7. [C Programming Tutorials in English (Spoken Tutorials, IIT Bombay)](https://spoken-tutorial.org/tutorial-search/?search_foss=C+and+Cpp&search_language=English)
 8. [Crash Course Computer Science, YouTube](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 9. [Awesom C Stuff GitHub Repo, aleksandar-todorovic](https://github.com/aleksandar-todorovic/awesome-c)
+10. [C Programming Tips and Tricks](https://www.techbeamers.com/top-c-programming-tips-and-tricks-for-you/)
 
 ___  
 
